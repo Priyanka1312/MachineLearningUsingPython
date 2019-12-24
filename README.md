@@ -45,5 +45,22 @@ __2. Car Sales Prediction(Forecasting Automobile Sales)__
 
 Nearly all companies seek to accurately predict future sales of their product(s). If the company can accurately predict sales before producing the product, then they can better match production with customer demand, thus reducing unnecessary inventory costs while being able to satisfy demand for their product.
 
-__3. IMDB Movie dataset Analysis__
+In this excercise we will-
 
+- Find insights from given Automobile dataset and also find relationships within data ,features visualize it using python (libraries).
+- Explore the purchasing pattern of cars by customers.
+
+__3. IMDB Movie dataset Analysis__
+In this project I will analyse Movies data set containing information about 1000 movies published between 2006 and 2016.
+
+Research Questions:
+
+Which genres are the most common (number of movies made)?
+Which genres have high avg. Revenue?
+Which genres have high avg. Vote?
+Which genres have high avg. Rating?
+Which genres have high avg. Metascore?
+Which genres have high number of movies released?
+How many movies are released per year ?
+Analysis of development of means of variables per genre over the years
+The distribution of revenue in different Rating levels in recent five years.
